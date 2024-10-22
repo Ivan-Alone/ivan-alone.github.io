@@ -1,0 +1,5 @@
+PKG_NAME='lscpu'
+PKG_URL='/packages/lscpu_2.39-2_mipsel_mips32.tar'
+PKG_DEPENDS='libsmartcols1'
+PKG_VERSION='2.39-2'
+PKG_LICENSE='GPL-2.0-only'
