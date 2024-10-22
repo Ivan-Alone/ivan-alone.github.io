@@ -1,0 +1,5 @@
+PKG_NAME='dig'
+PKG_URL='/packages/bind-dig_9.18.28-1_mipsel_mips32.tar'
+PKG_DEPENDS='bind-libs'
+PKG_VERSION='9.18.28-1'
+PKG_LICENSE='MPL-2.0'

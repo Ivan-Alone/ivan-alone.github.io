@@ -1,0 +1,5 @@
+PKG_NAME='libipset13'
+PKG_URL='/packages/libipset13_7.17-1_mipsel_mips32.tar'
+PKG_DEPENDS='libmnl0'
+PKG_VERSION='7.17-1'
+PKG_LICENSE='GPL-2.0'

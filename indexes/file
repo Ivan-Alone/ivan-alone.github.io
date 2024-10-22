@@ -1,0 +1,5 @@
+PKG_NAME='file'
+PKG_URL='/packages/file_5.44-1_mipsel_mips32.tar'
+PKG_DEPENDS='libmagic'
+PKG_VERSION='5.44-1'
+PKG_LICENSE='BSD-2-Clause'

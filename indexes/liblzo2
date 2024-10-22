@@ -1,0 +1,5 @@
+PKG_NAME='liblzo2'
+PKG_URL='/packages/liblzo2_2.10-4_mipsel_mips32.tar'
+PKG_DEPENDS=''
+PKG_VERSION='2.10-4'
+PKG_LICENSE='GPL-2.0-or-later'

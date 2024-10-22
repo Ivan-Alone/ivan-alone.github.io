@@ -1,0 +1,5 @@
+PKG_NAME='libnghttp2-14'
+PKG_URL='/packages/libnghttp2-14_1.57.0-1_mipsel_mips32.tar'
+PKG_DEPENDS=''
+PKG_VERSION='1.57.0-1'
+PKG_LICENSE='MIT'

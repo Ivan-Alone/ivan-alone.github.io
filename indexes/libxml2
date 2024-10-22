@@ -1,0 +1,5 @@
+PKG_NAME='libxml2'
+PKG_URL='/packages/libxml2_2.12.5-1_mipsel_mips32.tar'
+PKG_DEPENDS='zlib'
+PKG_VERSION='2.12.5-1'
+PKG_LICENSE='MIT'

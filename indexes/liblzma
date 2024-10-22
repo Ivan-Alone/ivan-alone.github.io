@@ -1,0 +1,5 @@
+PKG_NAME='liblzma'
+PKG_URL='/packages/liblzma_5.4.6-1_mipsel_mips32.tar'
+PKG_DEPENDS=''
+PKG_VERSION='5.4.6-1'
+PKG_LICENSE='Public-Domain LGPL-2.1-or-later GPL-2.0-or-later GPL-3.0-or-later'

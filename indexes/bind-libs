@@ -1,0 +1,5 @@
+PKG_NAME='bind-libs'
+PKG_URL='/packages/bind-libs_9.18.28-1_mipsel_mips32.tar'
+PKG_DEPENDS='libopenssl3 zlib libuv1 libnghttp2-14'
+PKG_VERSION='9.18.28-1'
+PKG_LICENSE='MPL-2.0'

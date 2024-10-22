@@ -1,0 +1,5 @@
+PKG_NAME='tinc'
+PKG_URL='/packages/tinc_1.1pre18-2_mipsel_mips32.tar'
+PKG_DEPENDS='zlib liblzo2 libopenssl3'
+PKG_VERSION='1.1pre18-2'
+PKG_LICENSE='GPL-2.0-or-later'

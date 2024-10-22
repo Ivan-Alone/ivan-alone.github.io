@@ -1,0 +1,5 @@
+PKG_NAME='php'
+PKG_URL='/packages/php8-cli_8.2.24-1_mipsel_mips32.tar'
+PKG_DEPENDS='libpcre2 libxml2'
+PKG_VERSION='8.2.24-1'
+PKG_LICENSE='PHP-3.01'

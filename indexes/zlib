@@ -1,0 +1,5 @@
+PKG_NAME='zlib'
+PKG_URL='/packages/zlib_1.2.13-1_mipsel_mips32.tar'
+PKG_DEPENDS=''
+PKG_VERSION='1.2.13-1'
+PKG_LICENSE='Zlib'
