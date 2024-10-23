@@ -18,3 +18,4 @@ dig
 php
 tinc
 ipset
+wget-ssl
