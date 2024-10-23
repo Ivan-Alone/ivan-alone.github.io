@@ -1,5 +1,5 @@
 PKG_NAME='wget-ssl'
 PKG_URL='/packages/wget-ssl_1.21.4-1_mipsel_mips32.tar'
-PKG_DEPENDS='libpcre2, zlib, libopenssl3'
+PKG_DEPENDS='libpcre2 zlib libopenssl3'
 PKG_VERSION='1.21.4-1'
 PKG_LICENSE='GPL-3.0-or-later'
