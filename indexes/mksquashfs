@@ -1,5 +1,5 @@
 PKG_NAME='mksquashfs'
 PKG_URL='/packages/squashfs-tools-mksquashfs_4.6.1-1_mipsel_mips32.tar'
-PKG_DEPENDS='zlib liblzma libzstd'
+PKG_DEPENDS='zlib liblzma libzstd libzstd'
 PKG_VERSION='4.6.1-1'
 PKG_LICENSE='GPL-2.0-only'
